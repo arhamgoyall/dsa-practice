@@ -11,7 +11,6 @@
 | 7 | | | | | | | | |
 | 8 | | | | | | | | |
 
-**"Solved Independently?" options:** Yes / Yes after hint / Looked at solution
 ## Weekly summary (every Sunday)
 
 | Week | Problems solved | New topics | Weak spots to revisit |
