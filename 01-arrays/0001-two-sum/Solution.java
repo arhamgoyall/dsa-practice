@@ -3,7 +3,6 @@ import java.util.Map;
 
 class Solution {
 
-    // Brute force - O(n^2) time, O(1) space
     public int[] twoSumBrute(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
@@ -15,9 +14,8 @@ class Solution {
         return new int[]{-1, -1};
     }
 
-    // Optimized - O(n) time, O(n) space
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> seen = new HashMap<>(); // value -> index
+        Map<Integer, Integer> seen = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
             if (seen.containsKey(complement)) {
