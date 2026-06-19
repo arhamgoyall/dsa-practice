@@ -2,7 +2,7 @@
 
 Daily data structures & algorithms practice in Java, building toward software internship interviews.
 
-**Started:** June 2026
+**Started:** 20 June 2026
 **Following:** [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) → NeetCode 150 (pattern reinforcement)
 
 ## How this repo is organized
@@ -19,7 +19,7 @@ Full log with dates, difficulty, and time taken: see [`PROGRESS.md`](./PROGRESS.
 
 ## Topics (in learning order)
 
-- [x] Big-O, Arrays — traversal, in-place ops, prefix sums
+- [ ] Big-O, Arrays — traversal, in-place ops, prefix sums
 - [ ] Two Pointers, Sliding Window, Binary Search
 - [ ] Recursion, Backtracking, Linked Lists
 - [ ] Stacks, Queues, Hashing
