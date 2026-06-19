@@ -11,9 +11,8 @@
 | 7 | | | | | | | | |
 | 8 | | | | | | | | |
 
-**"Solved Independently?" options:** Yes / Yes after hint / Looked at solution — be honest here, it's for you, not for show. If you mark "looked at solution," re-attempt it cold in ~1 week and update the row.
-
-## Weekly summary (fill in every Sunday)
+**"Solved Independently?" options:** Yes / Yes after hint / Looked at solution
+## Weekly summary (every Sunday)
 
 | Week | Problems solved | New topics | Weak spots to revisit |
 |------|------------------|------------|------------------------|
